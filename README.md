@@ -1,7 +1,7 @@
 <h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Aditya Kumar</h1>
 <h3 align="left">An aspiring fullstack developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aditya261201&label=Profile%20views&color=0e75b6&style=flat" alt="sauravchamoli17" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aditya261201&color=blue" alt="Aditya261201" /> </p>
 
 - 🔭 I’m currently working on **MERN STACK**
 
